@@ -1,2 +1,3 @@
 New line. Added from terminal
+New line. Added from github
 Line 2.
