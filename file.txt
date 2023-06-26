@@ -1,2 +1,2 @@
-New line.
+New line. Added from github
 Line 2.
