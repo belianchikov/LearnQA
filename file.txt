@@ -1,2 +1,2 @@
-New line.
+New line. Added from terminal
 Line 2.
